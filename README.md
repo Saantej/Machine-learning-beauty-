@@ -1,2 +1,2 @@
-# Machine-learning-beauty
+# Machine-Learning-beauty
  
